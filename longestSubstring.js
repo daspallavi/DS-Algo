@@ -1,4 +1,3 @@
-console.log('Longest substring length');
 
 var lengthOfLongestSubstring = function (s) {
     var letters = s.split("");
