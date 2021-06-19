@@ -31,4 +31,4 @@ function twoSum(arr) {
         }
     }
 }
-twoSum(arr);
+console.log(twoSum(arr));
